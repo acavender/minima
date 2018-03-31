@@ -2,7 +2,9 @@
 layout: post
 ---
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
+Welcome to POSC151W!
+
+This is just a placeholder post for now, as I'm getting the site set up. As we get closer to the start of the fall term, there'll be more information on the site and this post will go away.
 
 {% comment %}
 Might you have an include in your theme? Why not try it here!
