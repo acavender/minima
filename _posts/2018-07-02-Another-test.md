@@ -8,6 +8,8 @@ As the subject line says, this is another test of using this setup for the cours
 
 And here's an addition from the Thursday before classes, just to be sure the setup is working on the work machine as well as the home machine.
 
+A final test of the setup.
+
 ## This is a second level header.
 
 ### This is a third level header
