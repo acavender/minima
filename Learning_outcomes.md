@@ -40,4 +40,11 @@ Each of these skills is developed through careful reading of, reflection on, dis
 
 ## LO2 outcomes for the Critical Thinking Seminar:
 
+|**Critical Thinking Outcomes**|**Fulfillment**|
+|:--|:--|
+| A Saint Mary's student evaluates and formulates claims about issues, ideas, artifacts, or events using critical thinking methods that are appropriate to the discipline of the seminar.| Students fulfill this outcome through careful reading and discussion of the texts we read, and by thoughtfully engaging those texts in the writing assignments.|
+| A Saint Mary's student demonstrates basic information literacy skills as listed in the information literacy sub-outcomes. (She is able to determine how much and what kind of information she needs, locate that information, evaluate its suitability, and use it to accomplish her purpose.)| Students fulfill this outcome by completing the article review and research essay assignments.|
+| A Saint Mary's student demonstrates effective oral communication in presentational or interactive contexts.| Students fulfill this outcome by regular participation in class discussions and by presentation of their research work.|
+| A Saint Mary's student develops and organizes written arguments.| Students fulfill this outcome by completing the essay assignments and the article review.|
+
 [^1]:	A Saint Mary’s student follows conventions of grammar, punctuation, syntax, and citation in the discipline in which she is writing (Mechanics).
