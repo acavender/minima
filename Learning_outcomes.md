@@ -33,10 +33,10 @@ As students work to accomplish these objectives through their participation in c
 
 |**LO2**|**Writing Program Outcomes**|
 |:-----|:-----|
-| A Saint Mary’s student employs conventions of academic writing…| All goals below express these conventions. Mechanics<sup>[1](#note1)</sup> focuses on technical details such as citation form. This is also addressed by the Revision outcome: “A Saint Mary’s student reevaluates and revises her work in response to feedback.”|
+| A Saint Mary’s student employs conventions of academic writing…| All goals below express these conventions. Mechanics<sup id="note1ref">[1](#note1)</sup> focuses on technical details such as citation form. This is also addressed by the Revision outcome: “A Saint Mary’s student reevaluates and revises her work in response to feedback.”|
 | …to formulate meaningful claims,| A Saint Mary’s student expresses the central idea of her essay in a focused thesis (Thesis).|
 | construct effective arguments,| A Saint Mary’s student organizes her material in a logical sequence of well-structured paragraphs (Organization).|
 | and employ evidence appropriately.| A Saint Mary’s student supports her ideas with sufficient persuasive evidence (Support).|
 | She communicates her ideas in writing with precision and style.| A Saint Mary’s student expresses her ideas clearly and appropriately for the intended audience (Style).|
 
-<a href=“note1ref” id=“note1”><sup>1</sup></a> A Saint Mary’s student follows conventions of grammar, punctuation, syntax, and citation in the discipline in which she is writing (Mechanics).
+<sup id=“note1”>[1](#note1ref)</sup>A Saint Mary’s student follows conventions of grammar, punctuation, syntax, and citation in the discipline in which she is writing (Mechanics).
