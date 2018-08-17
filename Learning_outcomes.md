@@ -29,14 +29,18 @@ As students work to accomplish these objectives through their participation in c
 * A Saint Mary’s student applies social science concepts and theories in her analysis of human behavior, systems, and cultures.
 * A Saint Mary’s student recognizes and explains effects of diversity and equity in specific areas such as class, race, religion, age, gender, sexual orientation, disability, and/or privilege.
 
+Each of these skills is developed through careful reading of, reflection on, discussion of, and writing about the course materials.
+
 ## LO2 outcomes in writing:
 
 |**LO2**|**Writing Program Outcomes**|
 |:-----|:-----|
-| A Saint Mary’s student employs conventions of academic writing…| All goals below express these conventions. Mechanics<sup id="note1ref">[1](#note1)</sup> focuses on technical details such as citation form. This is also addressed by the Revision outcome: “A Saint Mary’s student reevaluates and revises her work in response to feedback.”|
+| A Saint Mary’s student employs conventions of academic writing…| All goals below express these conventions. Mechanics[^1]  focuses on technical details such as citation form. This is also addressed by the Revision outcome: “A Saint Mary’s student reevaluates and revises her work in response to feedback.”|
 | …to formulate meaningful claims,| A Saint Mary’s student expresses the central idea of her essay in a focused thesis (Thesis).|
 | construct effective arguments,| A Saint Mary’s student organizes her material in a logical sequence of well-structured paragraphs (Organization).|
 | and employ evidence appropriately.| A Saint Mary’s student supports her ideas with sufficient persuasive evidence (Support).|
 | She communicates her ideas in writing with precision and style.| A Saint Mary’s student expresses her ideas clearly and appropriately for the intended audience (Style).|
 
-{::nomarkdown}<sup markdown="0" id=“note1”><a href="#note1ref">1</a></sup>A Saint Mary’s student follows conventions of grammar, punctuation, syntax, and citation in the discipline in which she is writing (Mechanics).{:/}
+## LO2 outcomes for the Critical Thinking Seminar:
+
+[^1]:	A Saint Mary’s student follows conventions of grammar, punctuation, syntax, and citation in the discipline in which she is writing (Mechanics).
