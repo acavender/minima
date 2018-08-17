@@ -4,9 +4,6 @@ title: Learning Outcomes
 permalink: /learningoutcomes/
 ---
 
-
-# Learning outcomes
-
 By the end of the semester, students will have:
 * explored some important political issues,
 * developed an understanding of those issues,
