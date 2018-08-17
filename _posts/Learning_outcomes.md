@@ -1,3 +1,10 @@
+---
+layout: page
+title: Learning Outcomes
+permalink: /learningoutcomes/
+---
+
+
 # Learning outcomes
 
 By the end of the semester, students will have:
