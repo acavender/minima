@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+This is just a test to see whether this material *actually* appears on the home page along with the posts.
