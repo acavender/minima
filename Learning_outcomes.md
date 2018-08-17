@@ -2,6 +2,7 @@
 layout: page
 title: Learning Outcomes
 permalink: /learningoutcomes/
+exclude: true
 ---
 
 By the end of the semester, students will have:
