@@ -45,5 +45,5 @@ exclude:
   - Gemfile.lock
 
 header_pages:
-  - about.md
+  - syllabus.md
   - resources.md
