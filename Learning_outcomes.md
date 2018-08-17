@@ -39,4 +39,4 @@ As students work to accomplish these objectives through their participation in c
 | and employ evidence appropriately.| A Saint Mary’s student supports her ideas with sufficient persuasive evidence (Support).|
 | She communicates her ideas in writing with precision and style.| A Saint Mary’s student expresses her ideas clearly and appropriately for the intended audience (Style).|
 
-<sup markdown="0" id=“note1”>[1](#note1ref)</sup>A Saint Mary’s student follows conventions of grammar, punctuation, syntax, and citation in the discipline in which she is writing (Mechanics).
+{::nomarkdown}<sup markdown="0" id=“note1”>[1](#note1ref)</sup>A Saint Mary’s student follows conventions of grammar, punctuation, syntax, and citation in the discipline in which she is writing (Mechanics).{:/}
