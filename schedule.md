@@ -8,9 +8,11 @@ permalink: /schedule/
 
 Here’s our plan for the semester (subject to revision as needed). Readings and other assignments should be completed *prior* to the start of class.
 
+
+### Introductions; Unit 1: Community and Political Boundaries
+
 Week  | Date   | Subject | Additional notes 
 ---:|:---:|:---|:---
-| Introductions; Unit 1: Community and Political Boundaries |
-1 | T, 8/21  | Introductions and orientation to the course. What counts as “political”? |
-1 | W, 8/22 | Opening discussion of writing; Scott and Garrison, Ch. 1, Section 1  |
-1 | R, 8/23  | Potok, In the Beginning, Ch. 1  | 
+1 | T, 8/21  | Introductions and orientation to the course. What counts as “political”? | Why are we reading Potok’s In the Beginning in a POSC course?
+1 | W, 8/22 | Opening discussion of writing; Scott and Garrison, Ch. 1, Section 1  | Carefully read Scott and Garrison, Ch. 1, section 1.1. You may wish to skim the remaining sections of the chapter, as they'll be helpful later in the semester.
+1 | R, 8/23  | Potok, *In the Beginning*, Ch. 1  | 
