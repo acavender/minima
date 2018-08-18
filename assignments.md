@@ -38,4 +38,4 @@ No extra credit is available. ***You must submit all out-of-class essays in orde
 
 Final grades will be calculated as follows:
 
-A = 930-1000, A- = 900-929, B+ = 880-889, B = 830-879, B- = 800-829, C+ = 780-789, C = 730-779, C- = 700-729, D = 600-699, F = \< 600
+A = 930-1000, A- = 900-929, B+ = 880-889, B = 830-879, B- = 800-829, C+ = 780-789, C = 730-779, C- = 700-729, D = 600-699, F = < 600
