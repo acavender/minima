@@ -32,9 +32,22 @@ Week  | Date   | Subject | Additional notes
 ---:|:---:|:---|:---
 5 | T, 9/18 | Matthes, “Framing Politics; an Integrative Approach”; locating and evaluating news articles. |
 5 | W, 9/19 | Continue with locating articles; begin discussion of Entman, “Symposium Framing U.S. Coverage of International News: Contrasts in Narratives of the KAL and Iran Air Incidents.” | Come to class prepared with two *news* articles that you think frame the same event very differently. To facilitate discussion, make notes to yourself about the way(s) in which the sources frame the event differently. What *evidence* in the articles points to different frames? 
-5 | R, 9/20 | Continue Entman, discussion of selected articles. |
+5 | R, 9/20 | Continue Entman; discussion of selected articles. |
 6 | T, 9/25 | **In-class Essay 1** |
 6 | W, 9/26 | Assessing one’s own work | Bring a copy of your in-class essay to class. Be prepared to evaluate its strengths and weaknesses.
 6 | R, 9/27 | Gross and LoBello,  “Color-Coded US Politics: Media Frames Found in US Newspaper Articles from 2004 to 2012.” |
 
 ### Unit 3: The Politics of the Digital
+
+Week  | Date   | Subject | Additional notes 
+---:|:---:|:---|:---
+7 | T, 10/2 | Lessig, “[Aaron’s Laws — Laws and Justice in a Digital Age](https://www.youtube.com/watch?v=9HAw1i4gOU4)”; Albon, “[I Committed Aaron Swartz’s Crime—and So, Probably, Have You](https://www.dailydot.com/via/albon-i-committed-aaron-swartz-crime/)” | Come to class having already watched the video and read the article. A full transcript of Prof. Lessig’s lecture is available from *[Corrente](http://www.correntewire.com/transcript_lawrence_lessig_on_aarons_laws_law_and_justice_in_a_digital_age)*.
+7 | W, 10/3 | Working session on the Framing the News essay. |
+7 | R, 10/4 | Mornin, “NSA Metadata Collection and the Fourth Amendment.” | What do your devices know about you, and who has a right to that information?
+8 | T, 10/9 | Scholarly skills; a preview of the second half of the semester; continue with Mornin if needed. | **Due: Framing the News essay**. Read and come prepared to discuss Scott and Garrison, Ch. 6.
+8 | W, 10/10 | Preparation for the second in-class essay. |
+8 | R, 10/11 | On your own: **In-class Essay 2**. | **No class meeting**
+
+#### Fall Break
+
+#### Unit 4: Immigration
