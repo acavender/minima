@@ -50,4 +50,20 @@ Week  | Date   | Subject | Additional notes
 
 #### Fall Break
 
-#### Unit 4: Immigration
+### Unit 4: Immigration
+
+Week  | Date   | Subject | Additional notes 
+---:|:---:|:---|:---
+9 | T, 10/23 | Who immigrates to the US? Why? Leutert, “[Who’s Really Crossing the U.S. Border, and Why They’re Coming](https://www.lawfareblog.com/whos-really-crossing-us-border-and-why-theyre-coming).” | Come prepared to discuss what you’ve been able to find out from people you know about their family immigration stories. When, why, and how did their ancestors come to the U.S.?
+9 | W, 10/24 | W, TBA |
+9 | R, 10/25 | Continued discussion of Leutert post, including her sources. What’s the difference between a refugee and an asylee? What processes does each go through? | **Due: Article Review**
+10 | T, 10/30 | How do family-based and employment-based immigration work? How long does the process take? |
+10 | W, 10/31 | W, TBA |
+10 | R, 11/1 | Acquiring citizenship (through birth or naturalization) |
+11 | T, 11/6 | Immigration and crime |
+11 | W, 11/7 | W, TBA |
+11 | R, 11/8 | Catch up/TBA | **Due: Draft of research essay**
+12 | T, 11/13 | Catch up/TBA |
+12 | W, 11/14 | W, TBA |
+
+### Research Presentations
