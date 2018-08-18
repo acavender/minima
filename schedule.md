@@ -31,3 +31,10 @@ Week  | Date   | Subject | Additional notes
 Week  | Date   | Subject | Additional notes 
 ---:|:---:|:---|:---
 5 | T, 9/18 | Matthes, “Framing Politics; an Integrative Approach”; locating and evaluating news articles. |
+5 | W, 9/19 | Continue with locating articles; begin discussion of Entman, “Symposium Framing U.S. Coverage of International News: Contrasts in Narratives of the KAL and Iran Air Incidents.” | Come to class prepared with two *news* articles that you think frame the same event very differently. To facilitate discussion, make notes to yourself about the way(s) in which the sources frame the event differently. What *evidence* in the articles points to different frames? 
+5 | R, 9/20 | Continue Entman, discussion of selected articles. |
+6 | T, 9/25 | **In-class Essay 1** |
+6 | W, 9/26 | Assessing one’s own work | Bring a copy of your in-class essay to class. Be prepared to evaluate its strengths and weaknesses.
+6 | R, 9/27 | Gross and LoBello,  “Color-Coded US Politics: Media Frames Found in US Newspaper Articles from 2004 to 2012.” |
+
+### Unit 3: The Politics of the Digital
