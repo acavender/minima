@@ -24,13 +24,13 @@ Week  | Date   | Subject | Additional notes
 3 | R, 9/6 | Potok, *In the Beginning*, Ch. 6
 4 | T, 9/11 | On your own: Download and install Zotero; add APSA style | **No class meeting**
 4 | W, 9/12 | Citations; using Zotero | Bring a computer to class if possible.
-4 | R, 9/ 13 | Potok, *In the Beginning*, Ch. 6 (cont.) | **Due: Final draft of Potok essay**
+4 | R, 9/ 13 | Potok, *In the Beginning*, Ch. 6 (cont.) | 
 
 ### Unit 2: Finding and Assessing Information
 
 Week  | Date   | Subject | Additional notes 
 ---:|:---:|:---|:---
-5 | T, 9/18 | Matthes, “Framing Politics; an Integrative Approach”; locating and evaluating news articles. |
+5 | T, 9/18 | Matthes, “Framing Politics; an Integrative Approach”; locating and evaluating news articles. | **Due: Final draft of Potok essay**
 5 | W, 9/19 | Continue with locating articles; begin discussion of Entman, “Symposium Framing U.S. Coverage of International News: Contrasts in Narratives of the KAL and Iran Air Incidents.” | Come to class prepared with two *news* articles that you think frame the same event very differently. To facilitate discussion, make notes to yourself about the way(s) in which the sources frame the event differently. What *evidence* in the articles points to different frames? 
 5 | R, 9/20 | Continue Entman; discussion of selected articles. |
 6 | T, 9/25 | **In-class Essay 1** |
