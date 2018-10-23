@@ -77,4 +77,4 @@ Week  | Date   | Subject | Additional notes
 14 | R, 11/29 | Research presentations |
 15 | T, 12/4 | Research presentations |
 15 | W, 12/5 | W, TBA |
-15 | R, 12/6 | Wrap up | **Due: Complete portfolio**
+15 | R, 12/6 | Wrap up | **Due: Complete portfolio (including final copy of research essay)**
