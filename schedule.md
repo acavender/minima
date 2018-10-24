@@ -57,7 +57,7 @@ Week  | Date   | Subject | Additional notes
 9 | T, 10/23 | Who immigrates to the US? Why? Leutert, “[Who’s Really Crossing the U.S. Border, and Why They’re Coming](https://www.lawfareblog.com/whos-really-crossing-us-border-and-why-theyre-coming).” | Come prepared to discuss what you’ve been able to find out from people you know about their family immigration stories. When, why, and how did their ancestors come to the U.S.?
 9 | W, 10/24 | W, TBA |
 9 | R, 10/25 | Continued discussion of Leutert post, including her sources. What’s the difference between a refugee and an asylee? What processes does each go through? | 
-10 | T, 10/30 | How do family-based and employment-based immigration work? How long does the process take? | **Due: "Framing the News"**
+10 | T, 10/30 | How do family-based and employment-based immigration work? How long does the process take? Look through the information at [US Citizenship and Immigration Services](https://www.uscis.gov) to see what you can find out about acquiring a green card through family or employment. | **Due: "Framing the News"**
 10 | W, 10/31 | W, TBA |
 10 | R, 11/1 | Acquiring citizenship (through birth or naturalization) |
 11 | T, 11/6 | Immigration and crime | **Due: Article Review**
