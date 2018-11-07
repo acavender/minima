@@ -70,8 +70,8 @@ Week  | Date   | Subject | Additional notes
 
 Week  | Date   | Subject | Additional notes 
 ---:|:---:|:---|:---
-12 | R, 11/15 | TBA | **Due: Draft of research essay**
-13 | T, 11/20 | TBA |
+12 | R, 11/15 | TBA | 
+13 | T, 11/20 | TBA | **Due: Draft of research essay**
 14 | T, 11/27 | Research presentations |
 14 | W, 11/28 | Research presentations |
 14 | R, 11/29 | Research presentations |
